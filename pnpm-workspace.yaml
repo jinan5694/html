@@ -1,0 +1,4 @@
+packages:
+  - 'portal'
+  - 'work-package-foo'
+  - 'work-package-bar'
